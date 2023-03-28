@@ -16,7 +16,7 @@
 2. io.netty,
 3. org.springframework.
 
-На скрине отмечены данные понкты в коде программы, в логе выполнения, а также в VisualVM на вкладке `Monitor` в
+На скрине отмечены данные пункты в коде программы, в логе выполнения, а также в VisualVM на вкладке `Monitor` в
 разделах `Metaspace` и `Classes`:
 
 ![visualVM-applications-local](images/Metaspace_v2.png)
